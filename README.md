@@ -1,1 +1,2 @@
 # http5110
+This folder is dedicated to coursework for the web development class, covering core topics such as HTML, CSS, JavaScript, and responsive design principles. It includes assignments, project files, and resources for building and managing web applications.
